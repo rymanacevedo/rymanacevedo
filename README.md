@@ -1,6 +1,7 @@
-# Ryan Acevedo - Full Stack Developer with a Passion for Cybersecurity & AI
+# Ryan Acevedo
+## Full Stack Developer with a Passion for Cybersecurity & AI
 
-Hello! I'm Ryan Acevedo. Thanks for visiting my GitHub profile. With a keen interest in cutting-edge technologies like AI and cybersecurity, and having had the privilege to be involved in projects of national significance, my journey in tech has been deeply rewarding.
+Hello! I'm Ryan Acevedo. Thanks for visiting my GitHub profile. With a keen interest in cutting-edge technologies in AI and cybersecurity, and having had the privilege to be involved in projects of national significance, my journey in tech has been deeply rewarding.
 
 ## 🚀 Skills and Experience
 
