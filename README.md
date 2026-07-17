@@ -14,9 +14,9 @@ Hello! I'm Ryan Acevedo. Thanks for visiting my GitHub profile. 10 plus years in
 - **Testing**: Jest, Playwright, Cypress, Selenium
 
 
-## 🤖 Passion for AI
+## AI Development
 
-Artificial Intelligence holds the promise of transforming our world. I am deeply fascinated by its potential and continually explore how to harness its power for innovative solutions Healthcare, Edtech, Defense, and consulting. I strive to push the boundaries of what’s possible.
+Artificial Intelligence holds the promise of transforming our world. I've worked in healthcare, edtech, defense, and consulting. I strive to push the boundaries of what’s possible.
 
 ## 🤝 Collaboration and Teamwork
 
