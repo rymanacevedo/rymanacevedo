@@ -1,7 +1,7 @@
 # Ryan Acevedo
-## Full Stack Engineer, education liason, writer
+## AI Engineer
 
-Hello! I'm Ryan Acevedo. Thanks for visiting my GitHub profile. 9 plus years in the industry and I don't plan on stopping! I specialize in the EdTech Healthcare industry, learning about HIPAA compliance and delivering AAA/WCAG compliant web apps. My journey in tech has been deeply rewarding, and I’m passionate about leveraging technology for underserved communities.
+Hello! I'm Ryan Acevedo. Thanks for visiting my GitHub profile. 10 plus years in the industry and I don't plan on stopping!
 
 
 ## 🚀 Skills and Experience
@@ -13,10 +13,6 @@ Hello! I'm Ryan Acevedo. Thanks for visiting my GitHub profile. 9 plus years in 
 - **Tools**: AWS, GCP, Azure, Firebase, Docker, PostgreSQL, MongoDB
 - **Testing**: Jest, Playwright, Cypress, Selenium
 
-## EdTech
-Education is the foundation of progress, and I am committed to creating tools that empower learners and educators. My contributions include:
-- Architecting scalable eLearning platforms for over 5 million learners.
-- Designing intuitive user interfaces that enhance engagement and accessibility.
 
 ## 🤖 Passion for AI
 
