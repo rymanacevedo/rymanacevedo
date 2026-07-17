@@ -1,22 +1,22 @@
 # Ryan Acevedo
-## AI Engineer
+## Senior AI Engineer
 
 Hello! I'm Ryan Acevedo. Thanks for visiting my GitHub profile. 10 plus years in the industry and I don't plan on stopping!
 
 
 ## 🚀 Skills and Experience
 
-- **Web Development**: Proficient in crafting accessible, scalable, and user-friendly web apps.
+- **Fullstack Development**: Proficient in crafting accessible, scalable, and user-friendly web apps.
 - **Languages**: TypeScript, JavaScript, Python, C#, Java
 - **Frameworks**: React, Angular, Vue, Remix
-- **Best Practices**: Progressive Web Apps, accessibility, and security principles.
-- **Tools**: AWS, GCP, Azure, Firebase, Docker, PostgreSQL, MongoDB
+- **Tools**: AWS, GCP, Azure, Firebase, Docker, PostgreSQL, Langchain
+- **Agents** Codex, Claude, Gemini
 - **Testing**: Jest, Playwright, Cypress, Selenium
 
 
 ## 🤖 Passion for AI
 
-Artificial Intelligence holds the promise of transforming our world. I am deeply fascinated by its potential and continually explore how to harness its power for innovative solutions in Healthcare and EdTech. From machine learning models that reduce training cycles by 720% to AI-powered resume-building tools, I strive to push the boundaries of what’s possible.
+Artificial Intelligence holds the promise of transforming our world. I am deeply fascinated by its potential and continually explore how to harness its power for innovative solutions Healthcare, Edtech, Defense, and consulting. I strive to push the boundaries of what’s possible.
 
 ## 🤝 Collaboration and Teamwork
 
